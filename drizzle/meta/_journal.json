@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1737131646972,
+      "tag": "0000_spooky_scrambler",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1737133114831,
+      "tag": "0001_great_iron_lad",
+      "breakpoints": true
+    }
+  ]
+}
